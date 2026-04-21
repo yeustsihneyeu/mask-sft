@@ -1,0 +1,9 @@
+ipykernel
+transformers
+datasets
+peft
+torch
+mlx_lm
+pandas
+numpy
+seqeval

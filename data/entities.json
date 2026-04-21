@@ -1,0 +1,2307 @@
+[
+  {
+    "text": "Good Day Mrs. Bart, we've pinpointed a location 4062 Gusikowski Mills, Corabury, 90594-3651 possibly related to the financial fraud incident reported last month. We need you to assist in obtaining the necessary legal search warrants.",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "label": "PREFIX"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "FIRSTNAME"
+      },
+      {
+        "start": 48,
+        "end": 69,
+        "label": "STREETADDRESS"
+      },
+      {
+        "start": 71,
+        "end": 79,
+        "label": "CITY"
+      },
+      {
+        "start": 81,
+        "end": 91,
+        "label": "ZIPCODE"
+      }
+    ]
+  },
+  {
+    "text": "Hello Mrs. Tremblay, we've observed some suspicious transactions from account Personal Loan Account with a credit card 5530799294249932. Will you please help us investigate this account and provide us with appropriate legal advice?",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "PREFIX"
+      },
+      {
+        "start": 11,
+        "end": 19,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 78,
+        "end": 99,
+        "label": "ACCOUNTNAME"
+      },
+      {
+        "start": 119,
+        "end": 135,
+        "label": "CREDITCARDNUMBER"
+      }
+    ]
+  },
+  {
+    "text": "For our reference, could you please confirm the last four digits of the credit card number (0770664199973122) used for payment on your last visit? Also, please confirm your Money Market Account name for future documentation purposes.",
+    "entities": [
+      {
+        "start": 92,
+        "end": 108,
+        "label": "MASKEDNUMBER"
+      },
+      {
+        "start": 173,
+        "end": 193,
+        "label": "ACCOUNTNAME"
+      }
+    ]
+  },
+  {
+    "text": "\"Hello, Jordane Volkman, we have detected irregular activities on our Money Market Account account number 86885470 with a transaction amount of 668.42Canadian Dollar. Can you please look into this matter and ensure that our procedures were followed correctly?\"",
+    "entities": [
+      {
+        "start": 8,
+        "end": 15,
+        "label": "FIRSTNAME"
+      },
+      {
+        "start": 16,
+        "end": 23,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 70,
+        "end": 90,
+        "label": "ACCOUNTNAME"
+      },
+      {
+        "start": 106,
+        "end": 114,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 144,
+        "end": 150,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 150,
+        "end": 165,
+        "label": "CURRENCY"
+      }
+    ]
+  },
+  {
+    "text": "We need to secure our Auto Loan Account with number 54355519. Change the password to the combination Uvnn2LPILMOe and securely store it.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 39,
+        "label": "ACCOUNTNAME"
+      },
+      {
+        "start": 52,
+        "end": 60,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 101,
+        "end": 113,
+        "label": "PASSWORD"
+      }
+    ]
+  },
+  {
+    "text": "We noted several transactions made from your account 53144822 amounting to a total of 709.09Danish Krone. Was this part of your departmental budget allocation for the organizational redesign project? Please confirm.",
+    "entities": [
+      {
+        "start": 53,
+        "end": 61,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 86,
+        "end": 92,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 92,
+        "end": 104,
+        "label": "CURRENCY"
+      }
+    ]
+  },
+  {
+    "text": "Our client with the account number 2147571765847410 and associated with the IP address 161.49.143.245 has been accused of engaging in fraudulent transactions and misuse of credit cards. The credit card issuing company mastercard has launched an investigation into the matter. We need an in-depth legal report on the implications of such allegations, rights of our client, and our next possible steps.",
+    "entities": [
+      {
+        "start": 35,
+        "end": 51,
+        "label": "CREDITCARDNUMBER"
+      },
+      {
+        "start": 87,
+        "end": 101,
+        "label": "IP"
+      },
+      {
+        "start": 218,
+        "end": 228,
+        "label": "CREDITCARDISSUER"
+      }
+    ]
+  },
+  {
+    "text": "We received a request to change your online banking password for account linked to device with MAC address e0:51:2a:ea:0f:76 and operating under the user agent Mozilla/5.0 (X11; Linux x86_64 AppleWebKit/538.1.1 (KHTML, like Gecko) Chrome/24.0.800.0 Safari/538.1.1. Please confirm the change by clicking on the link we sent to your registered email.",
+    "entities": [
+      {
+        "start": 107,
+        "end": 124,
+        "label": "MAC"
+      },
+      {
+        "start": 160,
+        "end": 263,
+        "label": "USERAGENT"
+      }
+    ]
+  },
+  {
+    "text": "Hello, You requested us to update your bank details with the new address Elise Run 8153 with the zip code 00575-5476. To confirm this action, could you please respond to the security question we sent to your mobile device with IMEI number 27-503440-983044-2?",
+    "entities": [
+      {
+        "start": 73,
+        "end": 82,
+        "label": "STREET"
+      },
+      {
+        "start": 83,
+        "end": 87,
+        "label": "BUILDINGNUMBER"
+      },
+      {
+        "start": 106,
+        "end": 116,
+        "label": "ZIPCODE"
+      },
+      {
+        "start": 239,
+        "end": 257,
+        "label": "PHONEIMEI"
+      }
+    ]
+  },
+  {
+    "text": "Your NOK account is showing unusual transaction activities. Please verify your last transaction by entering your 1951 in the prompt sent to your registered mobile device with IMEI number 63-321489-837380-0.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "CURRENCYCODE"
+      },
+      {
+        "start": 113,
+        "end": 117,
+        "label": "PIN"
+      },
+      {
+        "start": 187,
+        "end": 205,
+        "label": "PHONEIMEI"
+      }
+    ]
+  },
+  {
+    "text": "\"To ensure safety and confidentiality, please change your PIN to a newly generated 6973 before sending your 69231504 for scrutiny during this ongoing arbitration process.\"",
+    "entities": [
+      {
+        "start": 83,
+        "end": 87,
+        "label": "PIN"
+      },
+      {
+        "start": 108,
+        "end": 116,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "A payment of 939.20 has been initiated to your account 15676549 for the cognitive neuroscience lecture scheduled for 12/75 in Fontana. Please confirm receipt Jeffery",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 55,
+        "end": 63,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 117,
+        "end": 122,
+        "label": "DATE"
+      },
+      {
+        "start": 126,
+        "end": 133,
+        "label": "CITY"
+      },
+      {
+        "start": 158,
+        "end": 165,
+        "label": "FIRSTNAME"
+      }
+    ]
+  },
+  {
+    "text": "\"We received a suspicious transaction alert involving account number 72598842 and credit card number 2380240275455720. Please look into it urgently and let us know your findings.\"",
+    "entities": [
+      {
+        "start": 69,
+        "end": 77,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 101,
+        "end": 117,
+        "label": "CREDITCARDNUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Dear Global Branding Architect, we've identified a few anomalies with the credit card issuer laser and our account number 80074024. As part of our risk evaluation, we require your expertise to investigate this issue further. Please submit your findings in a report to the Risk Committee by November 11, 1910.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 30,
+        "label": "JOBTITLE"
+      },
+      {
+        "start": 93,
+        "end": 98,
+        "label": "CREDITCARDISSUER"
+      },
+      {
+        "start": 122,
+        "end": 130,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 290,
+        "end": 307,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Dear Mrs., in order to comply with our company's policy, can you please update the records for our company's foreign banking details. The current account is with BIC: PVWJIQR0, and IBAN: CR38240209001000909243.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 167,
+        "end": 175,
+        "label": "BIC"
+      },
+      {
+        "start": 187,
+        "end": 209,
+        "label": "IBAN"
+      }
+    ]
+  },
+  {
+    "text": "Dear Mr. Johnson, I need assistance with my recent transaction. My account number is 123456 and my phone number is (555) 123-4567.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 16,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 85,
+        "end": 91,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 115,
+        "end": 129,
+        "label": "PHONE_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hello Ms. Smith, I noticed an unauthorized charge of $300 on my account. My address is 789 Pine St, Springfield, IL 62701 and my SSN is 123-45-6789.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 53,
+        "end": 57,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 87,
+        "end": 121,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 136,
+        "end": 147,
+        "label": "SSN"
+      }
+    ]
+  },
+  {
+    "text": "Dear Mr. Clark, I need to update my email to robert.clark@example.com. Also, my account number is 654321.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 45,
+        "end": 69,
+        "label": "EMAIL"
+      },
+      {
+        "start": 98,
+        "end": 104,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hi Mrs. Wilson, I have a question about my mortgage payment. My name is Emma Wilson and my address is 456 Oak St, Springfield, IL 62701.",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "PREFIX"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "NAME"
+      },
+      {
+        "start": 102,
+        "end": 135,
+        "label": "ADDRESS"
+      }
+    ]
+  },
+  {
+    "text": "Hello Mr. Brown, my debit card was declined. My account number is 789012 and my phone number is (555) 678-9101.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 66,
+        "end": 72,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 96,
+        "end": 110,
+        "label": "PHONE_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Dear Mrs. Davis, I need to reset my online banking password. My username is emily.davis and my email is emily.davis@example.com.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 76,
+        "end": 87,
+        "label": "USERNAME"
+      },
+      {
+        "start": 104,
+        "end": 127,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "text": "Hi Mr. Thompson, I want to transfer $1,000 from my savings to my checking account. My account number is 345678.",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "label": "PREFIX"
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 36,
+        "end": 42,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 104,
+        "end": 110,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hello Mrs. Walker, can you check why my recent transfer of $250 hasn't been processed? My account number is 567890 and my email is megan.walker@example.com.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "PREFIX"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 59,
+        "end": 63,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 108,
+        "end": 114,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 131,
+        "end": 155,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "text": "Dear Mr. Lewis, I need to update my investment portfolio details. My SSN is 222-33-4444 and my account number is 789012.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 76,
+        "end": 87,
+        "label": "SSN"
+      },
+      {
+        "start": 113,
+        "end": 119,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hi Mr. Miller, I need assistance with my credit card rewards program. My username is joseph.miller and my SSN is 444-55-6666.",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "label": "PREFIX"
+      },
+      {
+        "start": 7,
+        "end": 13,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 85,
+        "end": 98,
+        "label": "USERNAME"
+      },
+      {
+        "start": 113,
+        "end": 124,
+        "label": "SSN"
+      }
+    ]
+  },
+  {
+    "text": "Dear Mr. Robinson, I need to verify my payment information. My name is Michael Robinson and my phone number is (555) 678-9101.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 17,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 71,
+        "end": 87,
+        "label": "NAME"
+      },
+      {
+        "start": 111,
+        "end": 125,
+        "label": "PHONE_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hello Ms. Hill, I want to add an authorized user to my credit card account. My email is emily.hill@example.com and my SSN is 333-44-5555.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 88,
+        "end": 110,
+        "label": "EMAIL"
+      },
+      {
+        "start": 125,
+        "end": 136,
+        "label": "SSN"
+      }
+    ]
+  },
+  {
+    "text": "Hi Mr. Martinez, I need to change my savings account plan. My address is 789 Cedar St, Springfield, IL 62701 and my phone number is (555) 345-6789.",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "label": "PREFIX"
+      },
+      {
+        "start": 7,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 73,
+        "end": 108,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 132,
+        "end": 146,
+        "label": "PHONE_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Dear Ms. Nelson, can you please update my contact number to (555) 234-5678? My account number is 789012 and my email is isabella.nelson@example.com.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 60,
+        "end": 74,
+        "label": "PHONE_NUMBER"
+      },
+      {
+        "start": 97,
+        "end": 103,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 120,
+        "end": 147,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "text": "Hello Mr. Adams, I’m experiencing issues with my checking account. My address is 456 Maple St, Springfield, IL 62701 and my account number is 890123.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 81,
+        "end": 116,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 142,
+        "end": 148,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hi Mrs. Miller, I need assistance with my credit card rewards program. My username is joseph.miller and my email is joseph.miller@example.com.",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "PREFIX"
+      },
+      {
+        "start": 8,
+        "end": 14,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 86,
+        "end": 99,
+        "label": "USERNAME"
+      },
+      {
+        "start": 116,
+        "end": 141,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "text": "Dear Ms. Garcia, I need to report a lost debit card. My phone number is (555) 789-0123 and my account number is 678901.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 72,
+        "end": 86,
+        "label": "PHONE_NUMBER"
+      },
+      {
+        "start": 112,
+        "end": 118,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hello Mrs. Carter, I need to update my mailing address to 456 Birch St, Springfield, IL 62701. Regards, Jackson Carter. My phone number is (555) 234-5678.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "PREFIX"
+      },
+      {
+        "start": 11,
+        "end": 17,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 58,
+        "end": 93,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 104,
+        "end": 118,
+        "label": "NAME"
+      },
+      {
+        "start": 139,
+        "end": 153,
+        "label": "PHONE_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hi Mr. Scott, I have a question about my loan repayment. My name is Ethan Scott and my account number is 901234.",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "label": "PREFIX"
+      },
+      {
+        "start": 7,
+        "end": 12,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 68,
+        "end": 79,
+        "label": "NAME"
+      },
+      {
+        "start": 105,
+        "end": 111,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Dear Ms. Wilson, I need to update my email address. My email is emma.wilson@example.com and my account number is 345678.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 64,
+        "end": 87,
+        "label": "EMAIL"
+      },
+      {
+        "start": 113,
+        "end": 119,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hello Mr. Anderson, I need assistance with my mortgage application. My phone number is (555) 345-6789 and my application number is 987654.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 87,
+        "end": 101,
+        "label": "PHONE_NUMBER"
+      },
+      {
+        "start": 131,
+        "end": 137,
+        "label": "APPLICATION_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Dear Ms. Adams, I noticed a charge of $10 for a service I did not order. My account number is 890123.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 38,
+        "end": 41,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 94,
+        "end": 100,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hi Mrs. Brown, I need to reset my online banking password. My username is michael.brown and my phone number is (555) 678-9101.",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "PREFIX"
+      },
+      {
+        "start": 8,
+        "end": 13,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 74,
+        "end": 87,
+        "label": "USERNAME"
+      },
+      {
+        "start": 111,
+        "end": 125,
+        "label": "PHONE_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hello Mr. Harris, can you check why my recent payment of $500 hasn't been processed? My account number is 012345 and my email is david.harris@example.com.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 57,
+        "end": 61,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 106,
+        "end": 112,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 129,
+        "end": 153,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "text": "Dear Ms. White, I need to report a lost check. My account number is 678901 and my address is 789 Pine St, Springfield, IL 62701.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 68,
+        "end": 74,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 93,
+        "end": 127,
+        "label": "ADDRESS"
+      }
+    ]
+  },
+  {
+    "text": "Hi Mrs. Martinez, I need to transfer $2,000 to my savings account. My account number is 456789 and my phone number is (555) 234-5678.",
+    "entities": [
+      {
+        "start": 3,
+        "end": 7,
+        "label": "PREFIX"
+      },
+      {
+        "start": 8,
+        "end": 16,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 37,
+        "end": 43,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 88,
+        "end": 94,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 118,
+        "end": 132,
+        "label": "PHONE_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hello Mr. Thompson, I need assistance with my checking account. My address is 123 Maple St, Springfield, IL 62701 and my phone number is (555) 345-6789.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 18,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 78,
+        "end": 113,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 137,
+        "end": 151,
+        "label": "PHONE_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Dear Ms. Rivera, I need to verify my recent deposit. My name is Sophia Rivera and my account number is 012345.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 64,
+        "end": 77,
+        "label": "NAME"
+      },
+      {
+        "start": 103,
+        "end": 109,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hi Mr. Lee, I have a question about my account balance. My phone number is (555) 234-5678 and my account number is 456789.",
+    "entities": [
+      {
+        "start": 3,
+        "end": 6,
+        "label": "PREFIX"
+      },
+      {
+        "start": 7,
+        "end": 10,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 75,
+        "end": 89,
+        "label": "PHONE_NUMBER"
+      },
+      {
+        "start": 115,
+        "end": 121,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hello Ms. Walker, I need to update my phone number to (555) 789-0123. My email is megan.walker@example.com and my account number is 567890.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 54,
+        "end": 68,
+        "label": "PHONE_NUMBER"
+      },
+      {
+        "start": 82,
+        "end": 106,
+        "label": "EMAIL"
+      },
+      {
+        "start": 132,
+        "end": 138,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "I'd like to know if there are any charges incurred when transferring the payment to my bank account with SQVPZAP9. If yes, could you please tell me in details?",
+    "entities": [
+      {
+        "start": 105,
+        "end": 113,
+        "label": "BIC"
+      }
+    ]
+  },
+  {
+    "text": "Regrettably, I lost my maestro card number 1210530632679064 during my recent field research in Buckinghamshire. Could you please report the incident and request a replacement? I am available for verification on phone model with IMEI number 89-156732-296446-1.",
+    "entities": [
+      {
+        "start": 23,
+        "end": 30,
+        "label": "CREDITCARDISSUER"
+      },
+      {
+        "start": 43,
+        "end": 59,
+        "label": "CREDITCARDNUMBER"
+      },
+      {
+        "start": 95,
+        "end": 110,
+        "label": "COUNTY"
+      },
+      {
+        "start": 240,
+        "end": 258,
+        "label": "PHONEIMEI"
+      }
+    ]
+  },
+  {
+    "text": "For your financial protection, we would like to confirm the credit card 9372417504319872 with CVV 174 is authorized for payments. A test transaction of ﷼323.04 will be processed.",
+    "entities": [
+      {
+        "start": 72,
+        "end": 88,
+        "label": "CREDITCARDNUMBER"
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "label": "CREDITCARDCVV"
+      },
+      {
+        "start": 152,
+        "end": 153,
+        "label": "CURRENCYSYMBOL"
+      },
+      {
+        "start": 153,
+        "end": 159,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Hello Dr. Marina Cole, your application APP-2026-00481 was linked to IBAN DE89370400440532013000 and BIC COBADEFFXXX for the 2150.75 Euro settlement.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 9,
+        "label": "PREFIX"
+      },
+      {
+        "start": 10,
+        "end": 16,
+        "label": "FIRSTNAME"
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 40,
+        "end": 54,
+        "label": "APPLICATION_NUMBER"
+      },
+      {
+        "start": 74,
+        "end": 96,
+        "label": "IBAN"
+      },
+      {
+        "start": 105,
+        "end": 116,
+        "label": "BIC"
+      },
+      {
+        "start": 125,
+        "end": 132,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 133,
+        "end": 137,
+        "label": "CURRENCY"
+      }
+    ]
+  },
+  {
+    "text": "Please verify that the corporate account number 55190217 belongs to username legal.audit_77 and that the registered email is review.office@contoso-example.com before approval.",
+    "entities": [
+      {
+        "start": 48,
+        "end": 56,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 77,
+        "end": 91,
+        "label": "USERNAME"
+      },
+      {
+        "start": 125,
+        "end": 158,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "text": "Our records show a payment of 88.40 USD from card 4485275742308327 with CVV 417 on 2026-03-14. Confirm whether this was authorized.",
+    "entities": [
+      {
+        "start": 30,
+        "end": 35,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 36,
+        "end": 39,
+        "label": "CURRENCYCODE"
+      },
+      {
+        "start": 50,
+        "end": 66,
+        "label": "CREDITCARDNUMBER"
+      },
+      {
+        "start": 76,
+        "end": 79,
+        "label": "CREDITCARDCVV"
+      },
+      {
+        "start": 83,
+        "end": 93,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Dear Ms. Harlow, the caller identifying herself as Patricia Gomez requested that funds be moved from account Payroll Reserve to 94001562 immediately.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 8,
+        "label": "PREFIX"
+      },
+      {
+        "start": 9,
+        "end": 15,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 51,
+        "end": 65,
+        "label": "NAME"
+      },
+      {
+        "start": 109,
+        "end": 124,
+        "label": "ACCOUNTNAME"
+      },
+      {
+        "start": 128,
+        "end": 136,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "For shipment tracking we stored the address 91 Riverbend Avenue, Kingsport, Fulton County and called the contact number +1-202-555-0147 twice.",
+    "entities": [
+      {
+        "start": 44,
+        "end": 63,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 65,
+        "end": 74,
+        "label": "CITY"
+      },
+      {
+        "start": 76,
+        "end": 89,
+        "label": "COUNTY"
+      },
+      {
+        "start": 120,
+        "end": 135,
+        "label": "PHONE_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "The security audit flagged password Winter!2048, PIN 6041, and SSN 274-11-9082 in the same customer note. Please remove them from the case file.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 47,
+        "label": "PASSWORD"
+      },
+      {
+        "start": 53,
+        "end": 57,
+        "label": "PIN"
+      },
+      {
+        "start": 67,
+        "end": 78,
+        "label": "SSN"
+      }
+    ]
+  },
+  {
+    "text": "Device IMEI 49-209911-556677-3 connected from IP 203.0.113.47 under MAC 7c:4d:8f:22:19:ab using user agent Mozilla/5.0 (Macintosh; Intel Mac OS X 14_4) AppleWebKit/605.1.15 Safari/605.1.15.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 30,
+        "label": "PHONEIMEI"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "label": "IP"
+      },
+      {
+        "start": 72,
+        "end": 89,
+        "label": "MAC"
+      },
+      {
+        "start": 107,
+        "end": 188,
+        "label": "USERAGENT"
+      }
+    ]
+  },
+  {
+    "text": "Please confirm whether account Executive Bonus Plan should remain assigned to job title Senior Compliance Officer after the 1300.00 $ reimbursement.",
+    "entities": [
+      {
+        "start": 31,
+        "end": 51,
+        "label": "ACCOUNTNAME"
+      },
+      {
+        "start": 88,
+        "end": 113,
+        "label": "JOBTITLE"
+      },
+      {
+        "start": 124,
+        "end": 131,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 132,
+        "end": 133,
+        "label": "CURRENCYSYMBOL"
+      }
+    ]
+  },
+  {
+    "text": "We received a request from username ops_bridge to update account 77100452 and masked card number 9911222233334444 before the nightly batch.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 46,
+        "label": "USERNAME"
+      },
+      {
+        "start": 65,
+        "end": 73,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 97,
+        "end": 113,
+        "label": "MASKEDNUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Attorney Elise Warren asked that the beneficiary account number 66002145 be reached at 555-0199 and referenced customer name Daniel Price in the motion draft.",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "NAME"
+      },
+      {
+        "start": 64,
+        "end": 72,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 87,
+        "end": 95,
+        "label": "PHONE_NUMBER"
+      },
+      {
+        "start": 125,
+        "end": 137,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Before closing the file, send a notice to 440 Cedar Lane and quote amount 72.18 Danish Krone for reimbursement to account 88334455.",
+    "entities": [
+      {
+        "start": 42,
+        "end": 56,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 74,
+        "end": 79,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 80,
+        "end": 92,
+        "label": "CURRENCY"
+      },
+      {
+        "start": 122,
+        "end": 130,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Customer support escalated prefix Mr. with lastname Petrov because the email ivan.petrov@northwind-mail.net was tied to account number 11880073.",
+    "entities": [
+      {
+        "start": 34,
+        "end": 37,
+        "label": "PREFIX"
+      },
+      {
+        "start": 52,
+        "end": 58,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 77,
+        "end": 107,
+        "label": "EMAIL"
+      },
+      {
+        "start": 135,
+        "end": 143,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "The browser session from IP 198.51.100.42 used MAC 00:1A:2B:3C:4D:5E and reported user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/122.0.0.0 Safari/537.36 during the failed sign-in review.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 41,
+        "label": "IP"
+      },
+      {
+        "start": 51,
+        "end": 68,
+        "label": "MAC"
+      },
+      {
+        "start": 93,
+        "end": 184,
+        "label": "USERAGENT"
+      }
+    ]
+  },
+  {
+    "text": "Compliance noted device IMEI 35-209900-445566-7 connecting from IP 203.0.113.77 with user agent curl/8.7.1 before the account lock was applied.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 47,
+        "label": "PHONEIMEI"
+      },
+      {
+        "start": 67,
+        "end": 79,
+        "label": "IP"
+      },
+      {
+        "start": 96,
+        "end": 106,
+        "label": "USERAGENT"
+      }
+    ]
+  },
+  {
+    "text": "Please confirm whether IBAN GB82WEST12345698765432 and BIC DEUTDEFF500 were supplied on application APP-2026-11882 for the reimbursement request.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 50,
+        "label": "IBAN"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "BIC"
+      },
+      {
+        "start": 100,
+        "end": 114,
+        "label": "APPLICATION_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Treasury flagged settlement account FR7630006000011234567890189 with SWIFT AGRIFRPPXXX after case LOAN-77841 was escalated yesterday.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 63,
+        "label": "IBAN"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "BIC"
+      },
+      {
+        "start": 98,
+        "end": 108,
+        "label": "APPLICATION_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "The charge on credit card 4485275742308327 with CVV 417 for $215.40 should be reviewed before approval.",
+    "entities": [
+      {
+        "start": 26,
+        "end": 42,
+        "label": "CREDITCARDNUMBER"
+      },
+      {
+        "start": 52,
+        "end": 55,
+        "label": "CREDITCARDCVV"
+      },
+      {
+        "start": 60,
+        "end": 61,
+        "label": "CURRENCYSYMBOL"
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Fraud monitoring saw issuer visa authorize card 5530799294249932 with security code 902 for 88.40 USD.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 32,
+        "label": "CREDITCARDISSUER"
+      },
+      {
+        "start": 48,
+        "end": 64,
+        "label": "CREDITCARDNUMBER"
+      },
+      {
+        "start": 84,
+        "end": 87,
+        "label": "CREDITCARDCVV"
+      },
+      {
+        "start": 92,
+        "end": 97,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 98,
+        "end": 101,
+        "label": "CURRENCYCODE"
+      }
+    ]
+  },
+  {
+    "text": "Reset the temporary password Winter!2048 and change the PIN to 6041 before logging back into username ops_bridge tonight.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 40,
+        "label": "PASSWORD"
+      },
+      {
+        "start": 63,
+        "end": 67,
+        "label": "PIN"
+      },
+      {
+        "start": 102,
+        "end": 112,
+        "label": "USERNAME"
+      }
+    ]
+  },
+  {
+    "text": "Operations replaced password Qx7!nA22 after mobile device IMEI 27-503440-983044-2 failed validation during the support call.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 37,
+        "label": "PASSWORD"
+      },
+      {
+        "start": 63,
+        "end": 81,
+        "label": "PHONEIMEI"
+      }
+    ]
+  },
+  {
+    "text": "Ship the notice to 742 Evergreen Terrace, Springfield, 02139-4421 and confirm the resident can still receive registered mail.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 40,
+        "label": "STREETADDRESS"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "CITY"
+      },
+      {
+        "start": 55,
+        "end": 65,
+        "label": "ZIPCODE"
+      }
+    ]
+  },
+  {
+    "text": "Our courier could not locate Willow Lane 17B in Kingsport, so the package remained on hold until further instructions arrived.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 40,
+        "label": "STREET"
+      },
+      {
+        "start": 41,
+        "end": 44,
+        "label": "BUILDINGNUMBER"
+      },
+      {
+        "start": 48,
+        "end": 57,
+        "label": "CITY"
+      }
+    ]
+  },
+  {
+    "text": "The witness statement referenced 91 Riverbend Avenue, Kingsport, Fulton County near the branch office and listed county Fulton County separately in the report.",
+    "entities": [
+      {
+        "start": 33,
+        "end": 78,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 120,
+        "end": 133,
+        "label": "COUNTY"
+      }
+    ]
+  },
+  {
+    "text": "Please update the employment file so job title Senior Compliance Officer remains tied to account Executive Bonus Plan after the audit closes.",
+    "entities": [
+      {
+        "start": 47,
+        "end": 72,
+        "label": "JOBTITLE"
+      },
+      {
+        "start": 97,
+        "end": 117,
+        "label": "ACCOUNTNAME"
+      }
+    ]
+  },
+  {
+    "text": "The archived note stored masked card number 9911222233334444 beside account number 77100452 and should be reprocessed.",
+    "entities": [
+      {
+        "start": 44,
+        "end": 60,
+        "label": "MASKEDNUMBER"
+      },
+      {
+        "start": 83,
+        "end": 91,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "A reimbursement of 125.00 EUR was requested on 2026-03-14 by Marina using application APP-2026-00481.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 25,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 26,
+        "end": 29,
+        "label": "CURRENCYCODE"
+      },
+      {
+        "start": 47,
+        "end": 57,
+        "label": "DATE"
+      },
+      {
+        "start": 61,
+        "end": 67,
+        "label": "FIRSTNAME"
+      },
+      {
+        "start": 86,
+        "end": 100,
+        "label": "APPLICATION_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Before closing the file, send a courier to Oak Avenue 442 and mark postal code 10001 for the destination in Denver.",
+    "entities": [
+      {
+        "start": 43,
+        "end": 53,
+        "label": "STREET"
+      },
+      {
+        "start": 54,
+        "end": 57,
+        "label": "BUILDINGNUMBER"
+      },
+      {
+        "start": 79,
+        "end": 84,
+        "label": "ZIPCODE"
+      },
+      {
+        "start": 108,
+        "end": 114,
+        "label": "CITY"
+      }
+    ]
+  },
+  {
+    "text": "Network logs show user agent Mozilla/5.0 (Macintosh; Intel Mac OS X 14_4) AppleWebKit/605.1.15 Safari/605.1.15 from MAC 7c:4d:8f:22:19:ab during the session replay.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 110,
+        "label": "USERAGENT"
+      },
+      {
+        "start": 120,
+        "end": 137,
+        "label": "MAC"
+      }
+    ]
+  },
+  {
+    "text": "The claimant entered county Orange County and address 440 Cedar Lane on the compensation form before entering amount 72.18 Danish Krone.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 41,
+        "label": "COUNTY"
+      },
+      {
+        "start": 54,
+        "end": 68,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 117,
+        "end": 122,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 123,
+        "end": 135,
+        "label": "CURRENCY"
+      }
+    ]
+  },
+  {
+    "text": "Please verify that first name Daniel and last name Price match email daniel.price@contoso-example.com on account Payroll Reserve.",
+    "entities": [
+      {
+        "start": 30,
+        "end": 36,
+        "label": "FIRSTNAME"
+      },
+      {
+        "start": 51,
+        "end": 56,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 69,
+        "end": 101,
+        "label": "EMAIL"
+      },
+      {
+        "start": 113,
+        "end": 128,
+        "label": "ACCOUNTNAME"
+      }
+    ]
+  },
+  {
+    "text": "Case notes mention card issuer maestro, IBAN DE89370400440532013000, and BIC COBADEFFXXX in the same paragraph for review.",
+    "entities": [
+      {
+        "start": 31,
+        "end": 38,
+        "label": "CREDITCARDISSUER"
+      },
+      {
+        "start": 45,
+        "end": 67,
+        "label": "IBAN"
+      },
+      {
+        "start": 77,
+        "end": 88,
+        "label": "BIC"
+      }
+    ]
+  },
+  {
+    "text": "The portal captured currency symbol € with amount 54.90 and date 04/18/2026 before the application was submitted.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 37,
+        "label": "CURRENCYSYMBOL"
+      },
+      {
+        "start": 50,
+        "end": 55,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 65,
+        "end": 75,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Route the envelope to 18 Willow Court, Fairview, 30309 before the hearing notice expires.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 37,
+        "label": "STREETADDRESS"
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "label": "CITY"
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "label": "ZIPCODE"
+      }
+    ]
+  },
+  {
+    "text": "Field staff reported Maple Road 221A in Ashland as the service location for the inspection.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "STREET"
+      },
+      {
+        "start": 32,
+        "end": 36,
+        "label": "BUILDINGNUMBER"
+      },
+      {
+        "start": 40,
+        "end": 47,
+        "label": "CITY"
+      }
+    ]
+  },
+  {
+    "text": "The intake form lists 560 Harbor Street, Brighton, Lake County and separately records county Lake County for service of process.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 62,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 93,
+        "end": 104,
+        "label": "COUNTY"
+      }
+    ]
+  },
+  {
+    "text": "Authentication logs captured IP 192.0.2.144, MAC AA:BB:CC:DD:EE:11, and user agent PostmanRuntime/7.43.0 during the password reset flow.",
+    "entities": [
+      {
+        "start": 32,
+        "end": 43,
+        "label": "IP"
+      },
+      {
+        "start": 49,
+        "end": 66,
+        "label": "MAC"
+      },
+      {
+        "start": 83,
+        "end": 104,
+        "label": "USERAGENT"
+      }
+    ]
+  },
+  {
+    "text": "Please verify BIC CHASUS33XXX and IBAN NL91ABNA0417164300 attached to application CASE-2026-99017 before settlement.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 29,
+        "label": "BIC"
+      },
+      {
+        "start": 39,
+        "end": 57,
+        "label": "IBAN"
+      },
+      {
+        "start": 82,
+        "end": 97,
+        "label": "APPLICATION_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "The analyst recorded CVV 615 for card 4716108999716531 and amount £88.10 in the escalation note.",
+    "entities": [
+      {
+        "start": 25,
+        "end": 28,
+        "label": "CREDITCARDCVV"
+      },
+      {
+        "start": 38,
+        "end": 54,
+        "label": "CREDITCARDNUMBER"
+      },
+      {
+        "start": 66,
+        "end": 67,
+        "label": "CURRENCYSYMBOL"
+      },
+      {
+        "start": 67,
+        "end": 72,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "A temporary password Atlas#5501 and PIN 1188 were issued to username legal.queue_12 after the device check failed.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "PASSWORD"
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "label": "PIN"
+      },
+      {
+        "start": 69,
+        "end": 83,
+        "label": "USERNAME"
+      }
+    ]
+  },
+  {
+    "text": "The mobile audit referenced IMEI 49-209911-556677-3, IP 203.0.113.145, and MAC 10:2B:3C:4D:5E:6F in the incident summary.",
+    "entities": [
+      {
+        "start": 33,
+        "end": 51,
+        "label": "PHONEIMEI"
+      },
+      {
+        "start": 56,
+        "end": 69,
+        "label": "IP"
+      },
+      {
+        "start": 79,
+        "end": 96,
+        "label": "MAC"
+      }
+    ]
+  },
+  {
+    "text": "Send the registered letter to River Park West 9, postal code 60614, Lakeview, as confirmed by the resident.",
+    "entities": [
+      {
+        "start": 30,
+        "end": 45,
+        "label": "STREET"
+      },
+      {
+        "start": 46,
+        "end": 47,
+        "label": "BUILDINGNUMBER"
+      },
+      {
+        "start": 61,
+        "end": 66,
+        "label": "ZIPCODE"
+      },
+      {
+        "start": 68,
+        "end": 76,
+        "label": "CITY"
+      }
+    ]
+  },
+  {
+    "text": "Human resources confirmed job title Regional Treasury Manager for account Payroll Reserve in the onboarding packet.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 61,
+        "label": "JOBTITLE"
+      },
+      {
+        "start": 74,
+        "end": 89,
+        "label": "ACCOUNTNAME"
+      }
+    ]
+  },
+  {
+    "text": "Archived notes show masked number 0770664199973122 linked to account 66002145 and email ops.review@northwind-mail.net.",
+    "entities": [
+      {
+        "start": 34,
+        "end": 50,
+        "label": "MASKEDNUMBER"
+      },
+      {
+        "start": 69,
+        "end": 77,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 88,
+        "end": 117,
+        "label": "EMAIL"
+      }
+    ]
+  },
+  {
+    "text": "The expense request for 323.04 SAR was filed on 2026-05-22 by Elise using case APP-2026-22104.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 30,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 31,
+        "end": 34,
+        "label": "CURRENCYCODE"
+      },
+      {
+        "start": 48,
+        "end": 58,
+        "label": "DATE"
+      },
+      {
+        "start": 62,
+        "end": 67,
+        "label": "FIRSTNAME"
+      },
+      {
+        "start": 79,
+        "end": 93,
+        "label": "APPLICATION_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Our reviewer found issuer mastercard, BIC BOFAUS3NXXX, and IBAN IT60X0542811101000000123456 in the same disclosure.",
+    "entities": [
+      {
+        "start": 26,
+        "end": 36,
+        "label": "CREDITCARDISSUER"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "BIC"
+      },
+      {
+        "start": 64,
+        "end": 91,
+        "label": "IBAN"
+      }
+    ]
+  },
+  {
+    "text": "Update the shipping destination to 920 Meadow Lane, Brookfield, Orange County and mark county Orange County for the dispatch team.",
+    "entities": [
+      {
+        "start": 35,
+        "end": 77,
+        "label": "ADDRESS"
+      },
+      {
+        "start": 94,
+        "end": 107,
+        "label": "COUNTY"
+      }
+    ]
+  },
+  {
+    "text": "The portal displayed currency symbol ₹ with amount 1450.00 and date 05/01/2026 before the transfer was confirmed.",
+    "entities": [
+      {
+        "start": 37,
+        "end": 38,
+        "label": "CURRENCYSYMBOL"
+      },
+      {
+        "start": 51,
+        "end": 58,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 68,
+        "end": 78,
+        "label": "DATE"
+      }
+    ]
+  },
+  {
+    "text": "Please check whether first name Patricia, last name Gomez, and account name Executive Bonus Plan appear consistently in the file.",
+    "entities": [
+      {
+        "start": 32,
+        "end": 40,
+        "label": "FIRSTNAME"
+      },
+      {
+        "start": 52,
+        "end": 57,
+        "label": "LASTNAME"
+      },
+      {
+        "start": 76,
+        "end": 96,
+        "label": "ACCOUNTNAME"
+      }
+    ]
+  },
+  {
+    "text": "A browser string of Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36 was paired with IMEI 86-156732-296446-1 in the telecom complaint.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 101,
+        "label": "USERAGENT"
+      },
+      {
+        "start": 123,
+        "end": 141,
+        "label": "PHONEIMEI"
+      }
+    ]
+  },
+  {
+    "text": "The customer supplied street address 91 Riverbend Avenue, city Kingsport, and zip code 02141 for document delivery.",
+    "entities": [
+      {
+        "start": 37,
+        "end": 56,
+        "label": "STREETADDRESS"
+      },
+      {
+        "start": 63,
+        "end": 72,
+        "label": "CITY"
+      },
+      {
+        "start": 87,
+        "end": 92,
+        "label": "ZIPCODE"
+      }
+    ]
+  },
+  {
+    "text": "Fraud prevention logged CVV 174, issuer visa, and card number 5200828282828210 during the appeal review.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 31,
+        "label": "CREDITCARDCVV"
+      },
+      {
+        "start": 40,
+        "end": 44,
+        "label": "CREDITCARDISSUER"
+      },
+      {
+        "start": 62,
+        "end": 78,
+        "label": "CREDITCARDNUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Please replace password North!7788 for username bridge.ops_44 after PIN 4402 was exposed in the transcript.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 34,
+        "label": "PASSWORD"
+      },
+      {
+        "start": 48,
+        "end": 61,
+        "label": "USERNAME"
+      },
+      {
+        "start": 72,
+        "end": 76,
+        "label": "PIN"
+      }
+    ]
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "masked_text": "Good Day [PREFIX] [FIRSTNAME], we've pinpointed a location [STREETADDRESS], [CITY], [ZIPCODE] possibly related to the financial fraud incident reported last month. We need you to assist in obtaining the necessary legal search warrants.",
+    "unmasked_text": "Good Day Mrs. Bart, we've pinpointed a location 4062 Gusikowski Mills, Corabury, 90594-3651 possibly related to the financial fraud incident reported last month. We need you to assist in obtaining the necessary legal search warrants."
+  },
+  {
+    "masked_text": "Hello [PREFIX] [LASTNAME], we've observed some suspicious transactions from account [ACCOUNTNAME] with a credit card [CREDITCARDNUMBER]. Will you please help us investigate this account and provide us with appropriate legal advice?",
+    "unmasked_text": "Hello Mrs. Tremblay, we've observed some suspicious transactions from account Personal Loan Account with a credit card 5530799294249932. Will you please help us investigate this account and provide us with appropriate legal advice?"
+  },
+  {
+    "masked_text": "For our reference, could you please confirm the last four digits of the credit card number ([MASKEDNUMBER]) used for payment on your last visit? Also, please confirm your [ACCOUNTNAME] name for future documentation purposes.",
+    "unmasked_text": "For our reference, could you please confirm the last four digits of the credit card number (0770664199973122) used for payment on your last visit? Also, please confirm your Money Market Account name for future documentation purposes."
+  },
+  {
+    "masked_text": "\"Hello, [FIRSTNAME] [LASTNAME], we have detected irregular activities on our [ACCOUNTNAME] account number [ACCOUNT_NUMBER] with a transaction amount of [AMOUNT][CURRENCY]. Can you please look into this matter and ensure that our procedures were followed correctly?\"",
+    "unmasked_text": "\"Hello, Jordane Volkman, we have detected irregular activities on our Money Market Account account number 86885470 with a transaction amount of 668.42Canadian Dollar. Can you please look into this matter and ensure that our procedures were followed correctly?\""
+  },
+  {
+    "masked_text": "We need to secure our [ACCOUNTNAME] with number [ACCOUNT_NUMBER]. Change the password to the combination [PASSWORD] and securely store it.",
+    "unmasked_text": "We need to secure our Auto Loan Account with number 54355519. Change the password to the combination Uvnn2LPILMOe and securely store it."
+  },
+  {
+    "masked_text": "Dear [FIRSTNAME], I have noticed some discrepancies related to accounts [ACCOUNTNAME] and [ACCOUNT_NUMBER], which have also been marked by our [JOBDESCRIPTOR] software. Could you please check both these accounts and report any unusual patterns by [DATE] to [EMAIL]?",
+    "unmasked_text": ""
+  },
+  {
+    "masked_text": "\"Hello, [FIRSTNAME] [LASTNAME], we have detected irregular activities on our [ACCOUNTNAME] account number [ACCOUNT_NUMBER] with a transaction amount of [AMOUNT][CURRENCY]. Can you please look into this matter and ensure that our procedures were followed correctly?\"",
+    "unmasked_text": "\"Hello, Jordane Volkman, we have detected irregular activities on our Money Market Account account number 86885470 with a transaction amount of 668.42Canadian Dollar. Can you please look into this matter and ensure that our procedures were followed correctly?\""
+  },
+  {
+    "masked_text": "We noted several transactions made from your account [ACCOUNT_NUMBER] amounting to a total of [AMOUNT][CURRENCY]. Was this part of your departmental budget allocation for the organizational redesign project? Please confirm.",
+    "unmasked_text": "We noted several transactions made from your account 53144822 amounting to a total of 709.09Danish Krone. Was this part of your departmental budget allocation for the organizational redesign project? Please confirm."
+  },
+  {
+    "masked_text": "Our client with the account number [CREDITCARDNUMBER] and associated with the IP address [IP] has been accused of engaging in fraudulent transactions and misuse of credit cards. The credit card issuing company [CREDITCARDISSUER] has launched an investigation into the matter. We need an in-depth legal report on the implications of such allegations, rights of our client, and our next possible steps.",
+    "unmasked_text": "Our client with the account number 2147571765847410 and associated with the IP address 161.49.143.245 has been accused of engaging in fraudulent transactions and misuse of credit cards. The credit card issuing company mastercard has launched an investigation into the matter. We need an in-depth legal report on the implications of such allegations, rights of our client, and our next possible steps."
+  },
+  {
+    "masked_text": "We received a request to change your online banking password for account linked to device with MAC address [MAC] and operating under the user agent [USERAGENT]. Please confirm the change by clicking on the link we sent to your registered email.",
+    "unmasked_text": "We received a request to change your online banking password for account linked to device with MAC address e0:51:2a:ea:0f:76 and operating under the user agent Mozilla/5.0 (X11; Linux x86_64 AppleWebKit/538.1.1 (KHTML, like Gecko) Chrome/24.0.800.0 Safari/538.1.1. Please confirm the change by clicking on the link we sent to your registered email."
+  },
+  {
+    "masked_text": "Hello, You requested us to update your bank details with the new address [STREET] [BUILDINGNUMBER] with the zip code [ZIPCODE]. To confirm this action, could you please respond to the security question we sent to your mobile device with IMEI number [PHONEIMEI]?",
+    "unmasked_text": "Hello, You requested us to update your bank details with the new address Elise Run 8153 with the zip code 00575-5476. To confirm this action, could you please respond to the security question we sent to your mobile device with IMEI number 27-503440-983044-2?"
+  },
+  {
+    "masked_text": "Your [CURRENCYCODE] account is showing unusual transaction activities. Please verify your last transaction by entering your [PIN] in the prompt sent to your registered mobile device with IMEI number [PHONEIMEI].",
+    "unmasked_text": "Your NOK account is showing unusual transaction activities. Please verify your last transaction by entering your 1951 in the prompt sent to your registered mobile device with IMEI number 63-321489-837380-0."
+  },
+  {
+    "masked_text": "\"To ensure safety and confidentiality, please change your PIN to a newly generated [PIN] before sending your [ACCOUNT_NUMBER] for scrutiny during this ongoing arbitration process.\"",
+    "unmasked_text": "\"To ensure safety and confidentiality, please change your PIN to a newly generated 6973 before sending your 69231504 for scrutiny during this ongoing arbitration process.\""
+  },
+  {
+    "masked_text": "A payment of [AMOUNT] has been initiated to your account [ACCOUNT_NUMBER] for the cognitive neuroscience lecture scheduled for [DATE] in [CITY]. Please confirm receipt [FIRSTNAME]",
+    "unmasked_text": "A payment of 939.20 has been initiated to your account 15676549 for the cognitive neuroscience lecture scheduled for 12/75 in Fontana. Please confirm receipt Jeffery"
+  },
+  {
+    "masked_text": "\"We received a suspicious transaction alert involving account number [ACCOUNT_NUMBER] and credit card number [CREDITCARDNUMBER]. Please look into it urgently and let us know your findings.\"",
+    "unmasked_text": "\"We received a suspicious transaction alert involving account number 72598842 and credit card number 2380240275455720. Please look into it urgently and let us know your findings.\""
+  },
+  {
+    "masked_text": "Dear [JOBTITLE], we've identified a few anomalies with the credit card issuer [CREDITCARDISSUER] and our account number [ACCOUNT_NUMBER]. As part of our risk evaluation, we require your expertise to investigate this issue further. Please submit your findings in a report to the Risk Committee by [DATE].",
+    "unmasked_text": "Dear Global Branding Architect, we've identified a few anomalies with the credit card issuer laser and our account number 80074024. As part of our risk evaluation, we require your expertise to investigate this issue further. Please submit your findings in a report to the Risk Committee by November 11, 1910."
+  },
+  {
+    "masked_text": "Dear [PREFIX], in order to comply with our company's policy, can you please update the records for our company's foreign banking details. The current account is with BIC: [BIC], and IBAN: [IBAN].",
+    "unmasked_text": "Dear Mrs., in order to comply with our company's policy, can you please update the records for our company's foreign banking details. The current account is with BIC: PVWJIQR0, and IBAN: CR38240209001000909243."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I need assistance with my recent transaction. My account number is [ACCOUNT_NUMBER] and my phone number is [PHONE_NUMBER].",
+    "unmasked_text": "Dear Mr. Johnson, I need assistance with my recent transaction. My account number is 123456 and my phone number is (555) 123-4567."
+  },
+  {
+    "masked_text": "Hello [PREFIX], I noticed an unauthorized charge of [AMOUNT] on my account. My address is [ADDRESS] and my SSN is [SSN].",
+    "unmasked_text": "Hello Ms. Smith, I noticed an unauthorized charge of $300 on my account. My address is 789 Pine St, Springfield, IL 62701 and my SSN is 123-45-6789."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I need to update my email to [EMAIL]. Also, my account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Dear Mr. Clark, I need to update my email to robert.clark@example.com. Also, my account number is 654321."
+  },
+  {
+    "masked_text": "Hi [PREFIX], I have a question about my mortgage payment. My name is [NAME] and my address is [ADDRESS].",
+    "unmasked_text": "Hi Mrs. Wilson, I have a question about my mortgage payment. My name is Emma Wilson and my address is 456 Oak St, Springfield, IL 62701."
+  },
+  {
+    "masked_text": "Hello [PREFIX], my debit card was declined. My account number is [ACCOUNT_NUMBER] and my phone number is [PHONE_NUMBER].",
+    "unmasked_text": "Hello Mr. Brown, my debit card was declined. My account number is 789012 and my phone number is (555) 678-9101."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I need to reset my online banking password. My username is [USERNAME] and my email is [EMAIL].",
+    "unmasked_text": "Dear Mrs. Davis, I need to reset my online banking password. My username is emily.davis and my email is emily.davis@example.com."
+  },
+  {
+    "masked_text": "Hi [PREFIX], I want to transfer [AMOUNT] from my savings to my checking account. My account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Hi Mr. Thompson, I want to transfer $1,000 from my savings to my checking account. My account number is 345678."
+  },
+  {
+    "masked_text": "Hello [PREFIX], can you check why my recent transfer of [AMOUNT] hasn't been processed? My account number is [ACCOUNT_NUMBER] and my email is [EMAIL].",
+    "unmasked_text": "Hello Mrs. Walker, can you check why my recent transfer of $250 hasn't been processed? My account number is 567890 and my email is megan.walker@example.com."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I need to update my investment portfolio details. My SSN is [SSN] and my account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Dear Mr. Lewis, I need to update my investment portfolio details. My SSN is 222-33-4444 and my account number is 789012."
+  },
+  {
+    "masked_text": "Hi [PREFIX], I need assistance with my credit card rewards program. My username is [USERNAME] and my SSN is [SSN].",
+    "unmasked_text": "Hi Mr. Miller, I need assistance with my credit card rewards program. My username is joseph.miller and my SSN is 444-55-6666."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I need to verify my payment information. My name is [NAME] and my phone number is [PHONE_NUMBER].",
+    "unmasked_text": "Dear Mr. Robinson, I need to verify my payment information. My name is Michael Robinson and my phone number is (555) 678-9101."
+  },
+  {
+    "masked_text": "Hello [PREFIX], I want to add an authorized user to my credit card account. My email is [EMAIL] and my SSN is [SSN].",
+    "unmasked_text": "Hello Ms. Hill, I want to add an authorized user to my credit card account. My email is emily.hill@example.com and my SSN is 333-44-5555."
+  },
+  {
+    "masked_text": "Hi [PREFIX], I need to change my savings account plan. My address is [ADDRESS] and my phone number is [PHONE_NUMBER].",
+    "unmasked_text": "Hi Mr. Martinez, I need to change my savings account plan. My address is 789 Cedar St, Springfield, IL 62701 and my phone number is (555) 345-6789."
+  },
+  {
+    "masked_text": "Dear [PREFIX], can you please update my contact number to [PHONE_NUMBER]? My account number is [ACCOUNT_NUMBER] and my email is [EMAIL].",
+    "unmasked_text": "Dear Ms. Nelson, can you please update my contact number to (555) 234-5678? My account number is 789012 and my email is isabella.nelson@example.com."
+  },
+  {
+    "masked_text": "Hello [PREFIX], I’m experiencing issues with my checking account. My address is [ADDRESS] and my account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Hello Mr. Adams, I’m experiencing issues with my checking account. My address is 456 Maple St, Springfield, IL 62701 and my account number is 890123."
+  },
+  {
+    "masked_text": "Hi [PREFIX], I need assistance with my credit card rewards program. My username is [USERNAME] and my email is [EMAIL].",
+    "unmasked_text": "Hi Mrs. Miller, I need assistance with my credit card rewards program. My username is joseph.miller and my email is joseph.miller@example.com."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I need to report a lost debit card. My phone number is [PHONE_NUMBER] and my account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Dear Ms. Garcia, I need to report a lost debit card. My phone number is (555) 789-0123 and my account number is 678901."
+  },
+  {
+    "masked_text": "Hello [PREFIX], I need to update my mailing address to [ADDRESS]. Regards, [NAME]. My phone number is [PHONE_NUMBER].",
+    "unmasked_text": "Hello Mrs. Carter, I need to update my mailing address to 456 Birch St, Springfield, IL 62701. Regards, Jackson Carter. My phone number is (555) 234-5678."
+  },
+  {
+    "masked_text": "Hi [PREFIX], I have a question about my loan repayment. My name is [NAME] and my account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Hi Mr. Scott, I have a question about my loan repayment. My name is Ethan Scott and my account number is 901234."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I need to update my email address. My email is [EMAIL] and my account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Dear Ms. Wilson, I need to update my email address. My email is emma.wilson@example.com and my account number is 345678."
+  },
+  {
+    "masked_text": "Hello [PREFIX], I need assistance with my mortgage application. My phone number is [PHONE_NUMBER] and my application number is [APPLICATION_NUMBER].",
+    "unmasked_text": "Hello Mr. Anderson, I need assistance with my mortgage application. My phone number is (555) 345-6789 and my application number is 987654."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I noticed a charge of [AMOUNT] for a service I did not order. My account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Dear Ms. Adams, I noticed a charge of $10 for a service I did not order. My account number is 890123."
+  },
+  {
+    "masked_text": "Hi [PREFIX], I need to reset my online banking password. My username is [USERNAME] and my phone number is [PHONE_NUMBER].",
+    "unmasked_text": "Hi Mrs. Brown, I need to reset my online banking password. My username is michael.brown and my phone number is (555) 678-9101."
+  },
+  {
+    "masked_text": "Hello [PREFIX], can you check why my recent payment of [AMOUNT] hasn't been processed? My account number is [ACCOUNT_NUMBER] and my email is [EMAIL].",
+    "unmasked_text": "Hello Mr. Harris, can you check why my recent payment of $500 hasn't been processed? My account number is 012345 and my email is david.harris@example.com."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I need to report a lost check. My account number is [ACCOUNT_NUMBER] and my address is [ADDRESS].",
+    "unmasked_text": "Dear Ms. White, I need to report a lost check. My account number is 678901 and my address is 789 Pine St, Springfield, IL 62701."
+  },
+  {
+    "masked_text": "Hi [PREFIX], I need to transfer [AMOUNT] to my savings account. My account number is [ACCOUNT_NUMBER] and my phone number is [PHONE_NUMBER].",
+    "unmasked_text": "Hi Mrs. Martinez, I need to transfer $2,000 to my savings account. My account number is 456789 and my phone number is (555) 234-5678."
+  },
+  {
+    "masked_text": "Hello [PREFIX], I need assistance with my checking account. My address is [ADDRESS] and my phone number is [PHONE_NUMBER].",
+    "unmasked_text": "Hello Mr. Thompson, I need assistance with my checking account. My address is 123 Maple St, Springfield, IL 62701 and my phone number is (555) 345-6789."
+  },
+  {
+    "masked_text": "Dear [PREFIX], I need to verify my recent deposit. My name is [NAME] and my account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Dear Ms. Rivera, I need to verify my recent deposit. My name is Sophia Rivera and my account number is 012345."
+  },
+  {
+    "masked_text": "Hi [PREFIX], I have a question about my account balance. My phone number is [PHONE_NUMBER] and my account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Hi Mr. Lee, I have a question about my account balance. My phone number is (555) 234-5678 and my account number is 456789."
+  },
+  {
+    "masked_text": "Hello [PREFIX], I need to update my phone number to [PHONE_NUMBER]. My email is [EMAIL] and my account number is [ACCOUNT_NUMBER].",
+    "unmasked_text": "Hello Ms. Walker, I need to update my phone number to (555) 789-0123. My email is megan.walker@example.com and my account number is 567890."
+  },
+  {
+    "masked_text": "I'd like to know if there are any charges incurred when transferring the payment to my bank account with [BIC]. If yes, could you please tell me in details?",
+    "unmasked_text": "I'd like to know if there are any charges incurred when transferring the payment to my bank account with SQVPZAP9. If yes, could you please tell me in details?"
+  },
+  {
+    "masked_text": "Regrettably, I lost my [CREDITCARDISSUER] card number [CREDITCARDNUMBER] during my recent field research in [COUNTY]. Could you please report the incident and request a replacement? I am available for verification on phone model with IMEI number [PHONEIMEI].",
+    "unmasked_text": "Regrettably, I lost my maestro card number 1210530632679064 during my recent field research in Buckinghamshire. Could you please report the incident and request a replacement? I am available for verification on phone model with IMEI number 89-156732-296446-1."
+  },
+  {
+    "masked_text": "For your financial protection, we would like to confirm the credit card [CREDITCARDNUMBER] with CVV [CREDITCARDCVV] is authorized for payments. A test transaction of [CURRENCYSYMBOL][AMOUNT] will be processed.",
+    "unmasked_text": "For your financial protection, we would like to confirm the credit card 9372417504319872 with CVV 174 is authorized for payments. A test transaction of ﷼323.04 will be processed."
+  }
+]
